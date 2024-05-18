@@ -1,7 +1,5 @@
 
-
-
-# Custom version
+# Custom versi
 # mohist / catserver   Install forge   first
 # purpur               Install fabric  first
 # snapshot             Install vanilla first
@@ -17,20 +15,6 @@
 # sa		  South America (São Paulo)
 # us		  United States (Ohio)
 # us-cal-1	  United States (California)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 import requests,os,base64
 if not os.path.exists("./.gitignore"):
